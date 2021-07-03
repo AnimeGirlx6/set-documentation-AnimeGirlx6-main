@@ -1,0 +1,42 @@
+:mod:`app`
+==========
+
+.. py:module:: app
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   app.Calculator
+
+
+
+
+Attributes
+~~~~~~~~~~
+
+.. autoapisummary::
+
+   app.calculator
+
+
+.. class:: Calculator
+
+
+   .. method:: add(self, operand)
+
+
+   .. method:: subtract(self, operand)
+
+
+
+.. data:: calculator
+   
+
+   
+
